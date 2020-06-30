@@ -44,3 +44,6 @@ Pack:
 ```shell
 npm run pack
 ```
+
+License is MIT
+NDI from Keyjiro
