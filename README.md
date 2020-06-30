@@ -45,5 +45,5 @@ Pack:
 npm run pack
 ```
 
-License is MIT
+License is MIT,
 NDI from Keyjiro
